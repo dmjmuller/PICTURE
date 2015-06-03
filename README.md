@@ -1,2 +1,2 @@
 # PICTURE
-xxxx
+xxx
